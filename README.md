@@ -1,6 +1,10 @@
 # UU-Tex DustnIngots
 This packs main focus is retexturing all dusts and ingots.
 
+## Original pack
+
+[-->] (https://github.com/Jimbno/UU-Tex)
+
 ## UU-Tex Tweaks and addons
 
 [Hexa's Patch](https://github.com/Hexakosioihexekontahexa/UU-Tex/releases)
